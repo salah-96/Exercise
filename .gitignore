@@ -1,0 +1,8 @@
+# Ignorera alla .log-filer
+*.log
+
+# Ignorera mappen node_modules
+node_modules/
+
+# Ignorera konfigurationsfilen .env
+.env
